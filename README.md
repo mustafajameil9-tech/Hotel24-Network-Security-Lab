@@ -10,7 +10,7 @@ This project is a hotel network design lab created in EVE-NG.
 - Configure inter-VLAN routing
 - Configure NAT for internet access
 - Add firewall/security rules
-- Document the project for GitHub and LinkedIn
+
 
 ## Tools Used
 
